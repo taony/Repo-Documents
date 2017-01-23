@@ -19,7 +19,7 @@ scope	变量来存储信息的范围	No	Page
 <%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c" %>
 <html>
 <head>
-<title><c:set> Tag Example - www.yiibai.com</title>
+<title><c:set></title>
 </head>
 <body>
 <c:set var="salary" scope="session" value="${2000*2}"/>

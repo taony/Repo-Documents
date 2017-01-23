@@ -5,7 +5,7 @@
 <%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c" %>
 <html>
 <head>
-<title><c:remove> Tag Example - www.yiibai.com</title>
+<title><c:remove></title>
 </head>
 <body>
 <c:set var="salary" scope="session" value="${2000*2}"/>
